@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="shortcut icon" href="../Resources/hmbct.png" />
 </head>
 <body>
 <div style="background-color:#c9c9c9;padding:15px;">
